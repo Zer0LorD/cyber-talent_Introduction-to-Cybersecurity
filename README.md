@@ -126,7 +126,7 @@ Flag Format : FLAG{}
 
 ***[challenge link](http://35.193.45.56/iamlegend/)***
 
->{J4V4_Scr1Pt_1S_S0_D4MN_FUN}
+>flag{J4V4_Scr1Pt_1S_S0_D4MN_FUN}
 
 ---
 
